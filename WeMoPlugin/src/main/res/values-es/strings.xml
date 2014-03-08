@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="PluginShowName">WeMo Plugin</string>
+    <string name="Action1">Acción Prueba de Activity</string>
+    <string name="Action2">Acción Prueba de Background</string>
+    <string name="DemoError">No se pudo encontrar acción</string>
+
+    <string name="NodeInstalled">Instalación correcta</string>
+    <string name="NodeInstalledInfo">Has instalado correctamente WeMo en tu eKameno Nodo. Recuerda que debes ejecutar la App eKameno Cliente en tu móvil para utilizarlo.</string>
+    <string name="NodeInstalledButton">Más info</string>
+    <string name="ClientInstalled"><b>Instalación errónea</b></string>
+    <string name="ClientInstalledInfo">Hemos detectado que has instalado el plugin WeMo en el mismo dispositivo que tienes instalada la App eKameno Mando. Asegúrate de instalar el plugin WeMo en el dispositivo que se quedará en casa y donde tienes instalada la App eKameno Nodo.</string>
+    <string name="ClientInstalledButton">Más información</string>
+
+    <string name="SystemNotFound">Sistema no encontrado</string>
+    <string name="SystemNotFoundButton">Prueba eKameno</string>
+    <string name="SystemNotFoundInfo">Este plugin está pensado para funcionar con un sistema eKameno. Controla tus dispositivos WeMo y añádele algunas habilidades extra a la App oficial como comandos de voz, etiquetas NFC y mucho más con eKameno</string>
+    <string name="SystemNotFoundAlarm">Dale seguridad a tu hogar con una <b>alarma que detecta movimiento</b>.</string>
+    <string name="SystemNotFoundPictures">Mira que pasa en tu casa en cualquier momento con las <b>fotos instantáneas</b>.</string>
+    <string name="SystemNotFoundMusic">Haz que <b>tu música favorita suene cuando quieras</b>.</string>
+    <string name="SystemNotFoundActions">Configura tus <b>acciones personalizadas</b> para adaptar tu casa.</string>
+    <string name="SystemNotFoundNFC"><b>Graba etiquetas NFC</b> y acerca el móvil para que obedezca tus ordenes.</string>
+    <string name="SystemNotFoundVoice"><b>Pregunta lo que quieras a la inteligencia artificial</b>, te sorprenderá.</string>
+    <string name="SystemNotFoundeK">Siempre en evolución, <b>añade nuevos plugins y tendrás nuevas habilidades</b>.</string>
+</resources>

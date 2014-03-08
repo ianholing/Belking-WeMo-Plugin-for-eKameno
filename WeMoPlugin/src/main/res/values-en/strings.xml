@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="PluginShowName">WeMo Plugin</string>
+	<string name="Action1">Demo Activity Action</string>
+    <string name="Action2">Demo Background Action</string>
+    <string name="DemoError">Action not found</string>
+
+    <string name="NodeInstalled">Correct Installation</string>
+    <string name="NodeInstalledInfo">This WeMo Plugin is correct installed in your system. Remember to execute your eKameno Remote App in your regular phone in order to control it.</string>
+    <string name="NodeInstalledButton">More info</string>
+    <string name="ClientInstalled"><b>Installation failure</b></string>
+    <string name="ClientInstalledInfo">This Plugin should be installed only in devices with eKameno Node App. eKameno Remote acts as a remote control of eKameno Nodes, therefore <b>none plugins can work here</b>.</string>
+    <string name="ClientInstalledButton">More information</string>
+
+    <string name="SystemNotFound">System not found</string>
+    <string name="SystemNotFoundButton">Try eKameno</string>
+    <string name="SystemNotFoundInfo">This plugin is ment to work only with eKameno system. Control your WeMo Device and add some extra features to the oficial App like Voice commands, NFC tags and many more with eKameno</string>
+    <string name="SystemNotFoundAlarm">Give security to your home with an <b>alarm which detects motion.</b></string>
+    <string name="SystemNotFoundPictures">Look what happens in your home anytime with the <b>intant pictures.</b></string>
+    <string name="SystemNotFoundMusic"><b>Make your favorite music sound</b> anytime.</string>
+    <string name="SystemNotFoundActions">Set up your <b>custom actions</b> to customize your home.</string>
+    <string name="SystemNotFoundNFC"><b>Record NFC tags</b> to obey your commands.</string>
+    <string name="SystemNotFoundVoice"><b>Ask whatever you want to artificial intelligence</b>, it will surprise you.</string>
+    <string name="SystemNotFoundeK">Always evolving, <b>add new plugins and have new skills.</b></string>
+</resources>

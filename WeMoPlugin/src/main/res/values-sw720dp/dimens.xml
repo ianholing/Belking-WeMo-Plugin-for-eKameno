@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ultraTitleText">80sp</dimen>
+    <dimen name="superTitleText">40sp</dimen>
+    <dimen name="titleText">30sp</dimen>
+    <dimen name="text">28sp</dimen>
+    <dimen name="subText">20sp</dimen>
+    <dimen name="small">12dp</dimen>
+    <dimen name="medium">24dp</dimen>
+    <dimen name="large">50dp</dimen>
+    <dimen name="xlarge">68dp</dimen>
+    <dimen name="xxlarge">100dp</dimen>
+    <dimen name="main">130dp</dimen>
+    <dimen name="xxxlarge">200dp</dimen>
+    <dimen name="ultra">300dp</dimen>
+    <dimen name="xultra">400dp</dimen>
+    <dimen name="xxxultra">600dp</dimen>
+
+    <dimen name="customLogText">30dp</dimen>
+    <dimen name="customLogTextPadding">@dimen/medium</dimen>
+    <dimen name="customNodePadding">115dp</dimen>
+</resources>

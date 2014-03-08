@@ -1,0 +1,9 @@
+<resources>
+
+    <color name="black">#000</color>
+    <color name="white">#FFF</color>
+    <color name="soft">#ffffdd</color>
+    <color name="soft2">#ffaccc</color>
+    <color name="lightgrey">#ddd</color>
+
+</resources>
